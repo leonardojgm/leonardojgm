@@ -13,7 +13,6 @@ Atualmente trabalho na **Sinaf Seguros** como **Desenvolvedor** 💻
 </div>
 
 ### Tecnologias:
-
 <div style="display: inline_block"><br>
 	<img align="center" title="Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 	<img align="center" title="jQuery" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />
@@ -66,8 +65,7 @@ Atualmente trabalho na **Sinaf Seguros** como **Desenvolvedor** 💻
 	<img align="center" title="nuget" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuget/nuget-original.svg" />
 </div>
   
-### Contatos:
- 
+### Contatos: 
 <div>
 	<a href="https://www.facebook.com/cookie.maia" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 	<a href="https://www.instagram.com/cookie.maia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
