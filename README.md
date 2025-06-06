@@ -74,4 +74,5 @@ Atualmente trabalho na **Sinaf Seguros** como **Desenvolvedor** 💻
 	<a href="https://x.com/leonardojgm" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a> 
 	<a href="https://cursos.alura.com.br/user/lgarcia4" target="_blank"><img src="https://img.shields.io/badge/Alura-172B4D?style=for-the-badge&logo=academia&logoColor=black" target="_blank"></a> 
 	<a href="https://github.com/leonardojgm" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
+	<a href="https://www.dio.me/users/cookie_maia" target="_blank"><img src="https://img.shields.io/badge/Dio-172B4D?style=for-the-badge&logo=academia&logoColor=blue" target="_blank"></a>  
 </div>
