@@ -7,11 +7,6 @@ Atualmente trabalho na **Sinaf Seguros** como **Desenvolvedor** 💻
 
 🚀 Espero colaborar e aprender tudo e um pouco mais!
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leonardojgm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=pt-br&hide_border=false&order=1" height="150" title="Gráfico Status" alt="Gráfico Status"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardojgm&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false&order=2" height="150" title="Gráfico Linguagens" alt="Gráfico Linguagens"  />
-</div>
-
 ### Tecnologias:
 <div style="display: inline_block"><br>
 	<img align="center" title="Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
